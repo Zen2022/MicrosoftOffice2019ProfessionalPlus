@@ -5,4 +5,6 @@ Notes before use:
 1a - Edit the path in the batch file to your desktop
 1b - These have to run on the desktop; not even in a folder
 2a - This is made to require activation after in order to be general use
-2b - A PID can be added to the XML for activation while running the installer. But recomend not if you plan on having multiple keys.
+2b - A PID for a key can be added to the XML for activation while running the installer. But recomend not if you plan on having multiple keys.
+
+Run Install.bat when finished editing Install.bat; and Configuration.xml if you want to add a PID for a activation key
